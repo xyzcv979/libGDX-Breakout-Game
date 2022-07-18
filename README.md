@@ -4,6 +4,9 @@ Breakout game to learn libGDX
 
 reference: https://colourtann.github.io/HelloLibgdx/index.html
 
+## Source Code
+[Java](https://github.com/xyzcv979/libGDX-Breakout-Game/tree/main/core/src/com/mygdx/game)
+
 ## Bouncing the ball
 ![pic1](https://github.com/xyzcv979/libGDX-Breakout-Game/blob/main/pictures/wall.gif)
 
